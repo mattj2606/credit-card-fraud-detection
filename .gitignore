@@ -1,3 +1,4 @@
 # Ignore the Data folder
 Data/creditcard.csv
 Data/adjusted_creditcard.csv
+myenv/
