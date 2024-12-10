@@ -1,4 +1,5 @@
 # Ignore the Data folder
 Data/creditcard.csv
-Data/adjusted_creditcard.csv
+Data/visualized_creditcard.csv
 myenv/
+credit_card_fraud.db
