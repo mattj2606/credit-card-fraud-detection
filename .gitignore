@@ -1,5 +1,7 @@
 # Ignore the Data folder
 Data/creditcard.csv
 Data/visualized_creditcard.csv
+Data
 myenv/
+Notebooks
 credit_card_fraud.db
